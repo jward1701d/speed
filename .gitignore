@@ -1,0 +1,8 @@
+/content/*
+/gallery-images/*.jpg
+/gallery-sponsors/*.jpg
+/images/*
+/img/*
+/protfolio/*
+/weekly new images/*
+.*html
